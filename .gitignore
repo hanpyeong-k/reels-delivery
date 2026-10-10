@@ -1,0 +1,5 @@
+.env
+.env.*
+*.mp4
+*.mov
+node_modules/
